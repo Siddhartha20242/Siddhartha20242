@@ -2,7 +2,7 @@
 -  I’m interested in FullStack Web Development.
 -  I’m currently learning Redis, Firebase, K8s.
 -  I’m looking to collaborate on FullStack Project
--  How to reach me linkedin or through twitter or mail.
+-  How to reach me: linkedin or through twitter or mail.
 -  Pronouns: he/him
 
 
