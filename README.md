@@ -3,7 +3,7 @@
 -  I’m currently learning Redis, Firebase, K8s.
 -  I’m looking to collaborate on FullStack Project
 -  How to reach me: linkedin or through twitter or mail.
--  Pronouns: (Want to punch the guy making the pronouns everywhere either linkedin, insta or any social media)
+
 
 
 <!---
